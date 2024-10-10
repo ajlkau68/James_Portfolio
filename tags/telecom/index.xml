@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telecom on James Anya</title>
+    <link>https://ajlkau68.github.io/James_Portfolio/tags/telecom/</link>
+    <description>Recent content in Telecom on James Anya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2024 11:14:48 -0400</lastBuildDate>
+    <atom:link href="https://ajlkau68.github.io/James_Portfolio/tags/telecom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Executive Management Insights for Telecom Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 22 May 2024 11:14:48 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-4/</guid>
+      <description>Business Scenario:
+AtliQo (fictitious company) is one of the leading telecom providers in India and launched its 5G plans in May 2022 along with other telecom providers.
+However, the management noticed a decline in their active users and revenue growth post 5G launch in May 2022. AtliQo’s business director requested their analytics team to provide a comparison report of KPIs between pre and post-periods of the 5G launch. The management is keen to compare the performance between these periods and get insights that would enable them to make informed decisions to recover their active user rate and other key metrics.</description>
+    </item>
+  </channel>
+</rss>

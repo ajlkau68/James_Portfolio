@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HealthCare on James Anya</title>
+    <link>https://ajlkau68.github.io/James_Portfolio/tags/healthcare/</link>
+    <description>Recent content in HealthCare on James Anya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2024 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://ajlkau68.github.io/James_Portfolio/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Hospital Wait Time Analysis - HealthCare Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 25 Mar 2024 11:00:59 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-1/</guid>
+      <description>Project Overview:
+Blue Hart Hospital is a fictitious medical facility located in a bustling urban area, known for providing a wide range of healthcare services including emergency care, surgeries, diagnostics, outpatient treatments, and specialized care. The hospital is experiencing a significant rise in complaints related to long patient wait times across various departments. This issue is leading to decreased patient satisfaction, potential loss of revenue, and harm to the hospital’s public image.</description>
+    </item>
+  </channel>
+</rss>

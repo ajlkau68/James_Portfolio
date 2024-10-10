@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analyst Portfolio on James Anya</title>
+    <link>https://ajlkau68.github.io/James_Portfolio/</link>
+    <description>Recent content in Data Analyst Portfolio on James Anya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://ajlkau68.github.io/James_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Ad-Hoc Insights - FMCG Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-6/</link>
+      <pubDate>Wed, 26 Jun 2024 11:25:05 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-6/</guid>
+      <description>Business Scenario:
+AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of India. All their 50 stores ran a massive promotion during the Diwali 2023 and Sankranti 2024 (festive time in India) on their AtliQ branded products. Now the sales director wants to understand which promotions did well and which did not so that they can make informed decisions for their next promotional period.
+My goal is to uncover key insights into how different categories and stores have performed, which promo types are most effective, and how various cities and stores contribute to overall sales and revenue growth.</description>
+    </item>
+    <item>
+      <title>Project 5: Credit Card Analysis - Banking Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 10 Jun 2024 11:15:58 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-5/</guid>
+      <description>Business Scenario:
+Mitron Bank (fictitious company) is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market. They provided a sample dataset of 4000 customers across five cities on their online spending and other details.
+My ojective is to analyse the provided sample data and report key findings to the strategy team of Mitron Bank.</description>
+    </item>
+    <item>
+      <title>Project 4: Executive Management Insights for Telecom Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 22 May 2024 11:14:48 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-4/</guid>
+      <description>Business Scenario:
+AtliQo (fictitious company) is one of the leading telecom providers in India and launched its 5G plans in May 2022 along with other telecom providers.
+However, the management noticed a decline in their active users and revenue growth post 5G launch in May 2022. AtliQo’s business director requested their analytics team to provide a comparison report of KPIs between pre and post-periods of the 5G launch. The management is keen to compare the performance between these periods and get insights that would enable them to make informed decisions to recover their active user rate and other key metrics.</description>
+    </item>
+    <item>
+      <title>Project 3: Supply Chain Data Analysis - FMCG Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 11 May 2024 11:13:32 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-3/</guid>
+      <description>Project Overview:
+AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.</description>
+    </item>
+    <item>
+      <title>Project 2: Hotel Revenue Analysis - Hospitality Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-2/</guid>
+      <description>Project Overview:
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.</description>
+    </item>
+    <item>
+      <title>Project 1: Hospital Wait Time Analysis - HealthCare Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 25 Mar 2024 11:00:59 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-1/</guid>
+      <description>Project Overview:
+Blue Hart Hospital is a fictitious medical facility located in a bustling urban area, known for providing a wide range of healthcare services including emergency care, surgeries, diagnostics, outpatient treatments, and specialized care. The hospital is experiencing a significant rise in complaints related to long patient wait times across various departments. This issue is leading to decreased patient satisfaction, potential loss of revenue, and harm to the hospital’s public image.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/contact/</guid>
+      <description>Have a project you’d like to discuss or need help with data analysis? Feel free to reach out using the form below. I’d be happy to connect and explore how I can assist with turning your data into actionable insights. Looking forward to hearing from you!
+Your Name Email Address An email address is required. Message </description>
+    </item>
+  </channel>
+</rss>

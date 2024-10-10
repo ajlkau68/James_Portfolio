@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Banking on James Anya</title>
+    <link>https://ajlkau68.github.io/James_Portfolio/tags/banking/</link>
+    <description>Recent content in Banking on James Anya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2024 11:15:58 -0400</lastBuildDate>
+    <atom:link href="https://ajlkau68.github.io/James_Portfolio/tags/banking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: Credit Card Analysis - Banking Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 10 Jun 2024 11:15:58 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-5/</guid>
+      <description>Business Scenario:
+Mitron Bank (fictitious company) is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market. They provided a sample dataset of 4000 customers across five cities on their online spending and other details.
+My ojective is to analyse the provided sample data and report key findings to the strategy team of Mitron Bank.</description>
+    </item>
+  </channel>
+</rss>

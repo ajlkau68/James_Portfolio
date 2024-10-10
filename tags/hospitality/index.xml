@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hospitality on James Anya</title>
+    <link>https://ajlkau68.github.io/James_Portfolio/tags/hospitality/</link>
+    <description>Recent content in Hospitality on James Anya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://ajlkau68.github.io/James_Portfolio/tags/hospitality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Hotel Revenue Analysis - Hospitality Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-2/</guid>
+      <description>Project Overview:
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.</description>
+    </item>
+  </channel>
+</rss>

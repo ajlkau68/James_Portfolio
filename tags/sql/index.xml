@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on James Anya</title>
+    <link>https://ajlkau68.github.io/James_Portfolio/tags/sql/</link>
+    <description>Recent content in SQL on James Anya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://ajlkau68.github.io/James_Portfolio/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Ad-Hoc Insights - FMCG Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-6/</link>
+      <pubDate>Wed, 26 Jun 2024 11:25:05 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-6/</guid>
+      <description>Business Scenario:
+AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of India. All their 50 stores ran a massive promotion during the Diwali 2023 and Sankranti 2024 (festive time in India) on their AtliQ branded products. Now the sales director wants to understand which promotions did well and which did not so that they can make informed decisions for their next promotional period.
+My goal is to uncover key insights into how different categories and stores have performed, which promo types are most effective, and how various cities and stores contribute to overall sales and revenue growth.</description>
+    </item>
+  </channel>
+</rss>

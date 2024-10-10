@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supply Chain on James Anya</title>
+    <link>https://ajlkau68.github.io/James_Portfolio/tags/supply-chain/</link>
+    <description>Recent content in Supply Chain on James Anya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2024 11:13:32 -0400</lastBuildDate>
+    <atom:link href="https://ajlkau68.github.io/James_Portfolio/tags/supply-chain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Supply Chain Data Analysis - FMCG Domain</title>
+      <link>https://ajlkau68.github.io/James_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 11 May 2024 11:13:32 -0400</pubDate>
+      <guid>https://ajlkau68.github.io/James_Portfolio/post/project-3/</guid>
+      <description>Project Overview:
+AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.</description>
+    </item>
+  </channel>
+</rss>
